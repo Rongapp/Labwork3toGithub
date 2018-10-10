@@ -1,0 +1,11 @@
+.main
+{
+	text-align: center;
+}
+.child
+{
+	padding-bottom: 10px;
+	margin-left: 420px;
+	width: 500px;
+	border-bottom: 2px solid blue;
+}
